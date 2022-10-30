@@ -8,11 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Chin-Ho Lin',
   tagline: '',
-  url: 'https://chinholin.com',
-  baseUrl: '/',
+  favicon: 'img/logo.svg',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.svg',
+
+  url: 'https://chinholin.com',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'tainvecs', // Usually your GitHub org/user name.
