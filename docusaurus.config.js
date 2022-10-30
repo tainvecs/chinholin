@@ -86,6 +86,11 @@ const config = {
             position: 'right',
           },
           {
+            type: 'html',
+            value: '<a href="/resume/resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>',
+            position: 'right',
+          },
+          {
             href: 'mailto:chinho.lin@mailbox.org',
             label: 'Mail',
             position: 'right'

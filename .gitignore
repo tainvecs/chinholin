@@ -268,5 +268,5 @@ dist
 .pnp.*
 
 
-## Misc
-about/*.pages
+## Static
+static/**/*.pages
