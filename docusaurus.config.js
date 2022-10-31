@@ -78,7 +78,7 @@ const config = {
           // },
           {
             type: 'html',
-            value: '<a class="header-resume-link" aria-label="Resume" href="/resume/resume.pdf" target="_blank" rel="noopener noreferrer"></a>',
+            value: '<a class="header-resume-link" aria-label="Resume" href="/docs/resume.pdf" target="_blank" rel="noopener noreferrer"></a>',
             position: 'right',
           },
           {
