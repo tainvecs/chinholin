@@ -60,10 +60,10 @@ const config = {
     ({
       navbar: {
         title: 'Chin-Ho Lin',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'My Site Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           // {
           //   type: 'doc',
@@ -77,24 +77,27 @@ const config = {
           //   position: 'left'
           // },
           {
-            href: 'https://github.com/tainvecs',
-            label: 'GitHub',
+            type: 'html',
+            value: '<a class="header-resume-link" aria-label="Resume" href="/resume/resume.pdf" target="_blank" rel="noopener noreferrer"></a>',
             position: 'right',
           },
           {
             href: 'https://www.linkedin.com/in/chinholin/',
-            label: 'LinkedIn',
             position: 'right',
+            className: 'header-linkedin-link',
+            'aria-label': 'LinkedIn Profile',
           },
           {
-            type: 'html',
-            value: '<a href="/resume/resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>',
+            href: 'https://github.com/tainvecs',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub Repository',
           },
           {
             href: 'mailto:chinho.lin@mailbox.org',
-            label: 'Mail',
-            position: 'right'
+            position: 'right',
+            className: 'header-email-link',
+            'aria-label': 'Contact Email',
           },
         ],
       },
