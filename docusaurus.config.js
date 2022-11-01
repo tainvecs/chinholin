@@ -75,7 +75,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Chin-Ho Lin. Built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.`,
+        copyright: `© ${new Date().getFullYear()} Chin-Ho Lin. Built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
