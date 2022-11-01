@@ -9,15 +9,14 @@ const config = {
   title: 'Chin-Ho Lin',
   tagline: '',
   favicon: 'img/logo.svg',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   url: 'https://chinholin.com',
   baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
 
-  // GitHub pages deployment config.
-  organizationName: 'tainvecs', // Usually your GitHub org/user name.
-  projectName: 'chinholin', // Usually your repo name.
+  organizationName: 'tainvecs',
+  projectName: 'chinholin',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -76,10 +75,16 @@ const config = {
           //   label: 'Blog',
           //   position: 'left'
           // },
+          // {
+          //   type: 'html',
+          //   value: '<a class="header-resume-link" aria-label="Resume" href="/docs/resume.pdf" target="_blank" rel="noopener noreferrer"></a>',
+          //   position: 'right',
+          // },
           {
-            type: 'html',
-            value: '<a class="header-resume-link" aria-label="Resume" href="/docs/resume.pdf" target="_blank" rel="noopener noreferrer"></a>',
+            href: 'https://chinholin.com/docs/resume.pdf',
             position: 'right',
+            className: 'header-resume-link',
+            'aria-label': 'Resume',
           },
           {
             href: 'https://www.linkedin.com/in/chinholin/',
