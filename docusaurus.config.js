@@ -48,6 +48,11 @@ const config = {
         // },
         items: [
           {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left',
+          },
+          {
             href: 'https://chinholin.com/docs/resume.pdf',
             position: 'right',
             className: 'header-resume-link menu-resume-text',
