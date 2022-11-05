@@ -27,13 +27,22 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
+        docs: false,
+        blog: {
+          showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+          },
+          blogSidebarCount: 5,
+          postsPerPage: 5,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
