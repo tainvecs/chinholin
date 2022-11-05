@@ -32,6 +32,8 @@ const config = {
       {
         docs: false,
         blog: {
+          blogTitle: 'Tech Blog',
+          blogDescription: 'Chin-Ho Lin\'s Tech Blog',
           showReadingTime: true,
           feedOptions: {
             type: 'all',
