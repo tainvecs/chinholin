@@ -22,18 +22,18 @@ The codes and files for this article are available at this [GitHub Repo](https:/
 
 
 ### Steps {#contents-of-steps}
-- **Open a New Repository**
+- **Step 1: Open a New Repository**
   - Open a New Public repository
   - Upload Your Resume PDF File
   - Create an `index.html`
-- **Build and Deploy Your GitHub Pages Site**
-- **(Optional) Use Your Custom Domain**
+- **Step 2: Build and Deploy Your GitHub Pages Site**
+- **Step 3: (Optional) Use Your Custom Domain**
   - Update DNS
   - Enforce HTTPS
   - Verify Your Custom Domain
 
 
-## **Open a New Repository** {#open-a-new-repository}
+## **Step 1: Open a New Repository** {#open-a-new-repository}
 
 ![github-repository-example-for-initial-setup](./repo.png)
 
@@ -73,7 +73,7 @@ The codes and files for this article are available at this [GitHub Repo](https:/
 - The link follows the format of `"https://<username>.github.io/<repo-name>/<path-to-resume-pdf-file>"` or simply right click the `resume.pdf` file and copy link address.
 
 
-## Build and Deploy Your GitHub Pages Site {#github-pages}
+## Step 2: Build and Deploy Your GitHub Pages Site {#github-pages}
 
 ![github-pages-settings](./github-pages-1.png)
 
@@ -85,7 +85,7 @@ The codes and files for this article are available at this [GitHub Repo](https:/
   - In this example, the resume pdf is at `https://tainvecs.github.io/chinholin/about/resume.pdf`.
 
 
-## (Optional) Use Your Custom Domain {#use-your-custom-domain}
+## Step 3: (Optional) Use Your Custom Domain {#use-your-custom-domain}
 
 In this article, I will use `chinholin.com` as the custom domain.
 If you are using a subdomain `blog.example.com`, you can reference the instruction here [Configuring a subdomain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain).
