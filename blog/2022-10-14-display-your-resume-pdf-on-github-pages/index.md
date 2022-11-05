@@ -16,7 +16,7 @@ toc_max_heading_level: 2
 ![article-cover-with-github-and-pdf-logo](./pdf_github.jpeg)
 
 This article will start from scratch to display your resume pdf file on the GitHub Pages site.
-We can split the approach into 3 main steps.
+We can split the approach into 3 main steps.  <!--truncate-->
 The third step is optional and will go through how to update DNS, enable HTTPS, verify the custom domain, and use a custom domain for GitHub Pages.
 The codes and files for this article are available at this [GitHub Repo](https://github.com/tainvecs/chinholin/tree/b38c5cdabd5c20272420ef258fc61fccf5fcee59).
 
