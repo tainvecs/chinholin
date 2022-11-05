@@ -40,6 +40,7 @@ const config = {
           },
           blogSidebarCount: 5,
           postsPerPage: 5,
+          blogArchiveComponent: '../src/theme/BlogArchivePage/index.tsx',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
