@@ -27,13 +27,24 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
+        docs: false,
+        blog: {
+          blogTitle: 'Tech Blog',
+          blogDescription: 'Chin-Ho Lin\'s Tech Blog',
+          showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+          },
+          blogSidebarCount: 5,
+          postsPerPage: 5,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
