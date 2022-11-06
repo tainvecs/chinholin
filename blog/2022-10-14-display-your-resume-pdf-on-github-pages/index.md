@@ -98,7 +98,9 @@ If you are using a subdomain `blog.example.com`, you can reference the instructi
 
 - In addition, as the recommendation from [Configuring an apex domain and the www subdomain variant](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain-and-the-www-subdomain-variant) and avoiding the issue discussed in https://github.com/isaacs/github/issues/1675, I also added a `CNAME` record to point `www.chinholin.com` to `tainvecs.github.io`.
 
-- The DNS can take a few minutes to a few hours. The GitHub documentation also gives a heads up.
+- The DNS updates can take a few minutes to a few hours to take effect.
+The GitHub documentation also gives a heads up.
+You can use online tools such as [whatsmydns] to check the propagation status.
   > **Note:** DNS changes can take up to 24 hours to propagate.
 
 - Confirm your DNS record is configured correctly
@@ -158,3 +160,4 @@ If you are using a subdomain `blog.example.com`, you can reference the instructi
 - [How can I get GitHub pages to give a correct SSL certificate for my www subdomain](https://stackoverflow.com/questions/67043175/how-can-i-get-github-pages-to-give-a-correct-ssl-certificate-for-my-www-subdomai)
 - [About domain verification for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages#about-domain-verification-for-github-pages)
 - [Vecteezy PDF Logo](https://www.vecteezy.com/vector-art/3399479-modern-flat-design-of-pdf-file-icon-for-web)
+- [whatsmydns]:https://www.whatsmydns.net/
