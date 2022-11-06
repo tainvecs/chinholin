@@ -1,6 +1,7 @@
 # Personal Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This repo is the source code of my website for blog posts, projects documentation, and demo.
+The website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 
 ## Installation
