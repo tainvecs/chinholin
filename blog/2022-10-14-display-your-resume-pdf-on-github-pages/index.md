@@ -139,7 +139,7 @@ You can use online tools such as [whatsmydns] to check the propagation status.
 ### **Enforce HTTPS** {#enforce-https}
   - Update the “Custom Domain” field. Wait for DNS configuration to take effect, and the DNS check will success.
   - After the DNS check success, you can enable HTTPS by clicking the checkbox `Enforce HTTPS`.
-  ![Untitled](./github-pages-2.png)
+  ![github-pages-enforce-https](./github-pages-2.png)
 
 ### **Verify Your Custom Domain** {#verify-your-custom-domain}
   - Go to your account `settings/Pages` and click on `add a domain` button.
