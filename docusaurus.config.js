@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Chin-Ho Lin',
   tagline: '',
-  favicon: 'img/logo.svg',
+  favicon: 'img/logo-280.png',
 
   url: 'https://chinholin.com',
   baseUrl: '/',
@@ -54,10 +54,10 @@ const config = {
     ({
       navbar: {
         title: 'Chin-Ho Lin',
-        // logo: {
-        //   alt: 'My Site Logo',
-        //   src: 'img/logo.svg',
-        // },
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/logo-280.png',
+        },
         items: [
           {
             to: '/blog',
