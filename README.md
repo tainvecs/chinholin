@@ -1,7 +1,7 @@
 # Personal Website
 ![GitHub Pages Deployment](https://img.shields.io/github/deployments/tainvecs/chinholin/github-pages?label=deployment&style=for-the-badge)
 ![Website Check](https://img.shields.io/website?label=chinholin.com&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fwww.chinholin.com&style=for-the-badge)
-
+![](https://img.shields.io/github/repo-size/tainvecs/chinholin?style=for-the-badge)
 
 This repo is the source code of my website for blog posts, projects documentation, and demo.
 
