@@ -160,4 +160,6 @@ You can use online tools such as [whatsmydns] to check the propagation status.
 - [How can I get GitHub pages to give a correct SSL certificate for my www subdomain](https://stackoverflow.com/questions/67043175/how-can-i-get-github-pages-to-give-a-correct-ssl-certificate-for-my-www-subdomai)
 - [About domain verification for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages#about-domain-verification-for-github-pages)
 - [Vecteezy PDF Logo](https://www.vecteezy.com/vector-art/3399479-modern-flat-design-of-pdf-file-icon-for-web)
-- [whatsmydns]:https://www.whatsmydns.net/
+
+
+[whatsmydns]:https://www.whatsmydns.net/
