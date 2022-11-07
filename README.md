@@ -13,8 +13,7 @@
 </div>
 <p></p>
 
-This repo is the source code of my website for blog posts, projects documentation, and demo.
-
+This repo is the source code of my website for blog posts, projects documentation, and demo. <br>
 The website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 
