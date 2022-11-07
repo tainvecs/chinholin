@@ -7,8 +7,11 @@
   <a href="https://www.chinholin.com/">
     <img src="https://img.shields.io/website?label=chinholin.com&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fwww.chinholin.com&style=for-the-badge" alt="Website Check">
   </a>
-  <img src="https://img.shields.io/github/repo-size/tainvecs/chinholin?style=for-the-badge" alt="Repo Size">
+  <a href="https://github.com/tainvecs/chinholin">
+    <img src="https://img.shields.io/github/repo-size/tainvecs/chinholin?style=for-the-badge" alt="Repo Size">
+  </a>
 </div>
+<p></p>
 
 This repo is the source code of my website for blog posts, projects documentation, and demo.
 
