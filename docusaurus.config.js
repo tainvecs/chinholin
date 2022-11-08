@@ -65,7 +65,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://chinholin.com/docs/resume.pdf',
+            href: 'https://chinholin.com/pdf/resume.pdf',
             position: 'right',
             className: 'header-resume-link menu-resume-text',
             'aria-label': 'Resume',
