@@ -10,7 +10,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Home`}
-      description="Description will go into a meta tag in <head />">
+      description="Homepage for this site and self-description of the site maintainer Chin-Ho Lin">
       <main>
         <HomepageAbout />
       </main>
