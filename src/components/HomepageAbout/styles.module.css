@@ -62,6 +62,10 @@
   }
 }
 
+.description {
+  margin-bottom: 1rem;
+}
+
 .description > p {
     margin: 0;
     text-align: center;
