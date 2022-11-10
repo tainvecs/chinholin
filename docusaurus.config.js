@@ -30,7 +30,9 @@ const config = {
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
-        docs: false,
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
         blog: {
           blogTitle: 'Tech Blog',
           blogDescription: 'Chin-Ho Lin\'s Tech Blog',
@@ -59,6 +61,11 @@ const config = {
           src: 'img/logo-280.svg',
         },
         items: [
+          {
+            to: '/docs',
+            label: 'Projects',
+            position: 'left',
+          },
           {
             to: '/blog',
             label: 'Blog',
