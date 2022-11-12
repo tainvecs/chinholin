@@ -39,6 +39,15 @@
     margin-right: 5px;
     background: url("@site/static/img/logo.svg");
   }
+
+  [data-theme='dark'] .menu-default-icon::before {
+    content: '';
+    width: 24px;
+    height: 24px;
+    display: flex;
+    margin-right: 5px;
+    background: url("@site/static/img/logo-bw.svg");
+  }
 }
 
 /* for navbar resume item */
