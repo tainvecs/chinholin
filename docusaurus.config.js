@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Chin-Ho Lin',
   tagline: '',
-  favicon: 'img/logo-280.svg',
+  favicon: 'img/logo.svg',
 
   url: 'https://chinholin.com',
   baseUrl: '/',
@@ -31,6 +31,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         docs: {
+          path: './projects',
+          routeBasePath: '/projects',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
@@ -54,22 +56,30 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
+      },
       navbar: {
         title: 'Chin-Ho Lin',
         logo: {
           alt: 'chinholin.com Site Logo',
-          src: 'img/logo-280.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
-            to: '/docs',
+            to: '/projects',
             label: 'Projects',
             position: 'left',
+            className: 'menu-default-icon',
           },
           {
             to: '/blog',
             label: 'Blog',
             position: 'left',
+            className: 'menu-default-icon',
           },
           {
             href: 'https://chinholin.com/pdf/resume.pdf',
