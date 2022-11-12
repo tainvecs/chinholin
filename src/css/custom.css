@@ -29,6 +29,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* for navbar item logo */
+@media screen and (max-width: 996px) {
+  .menu-default-icon::before {
+    content: '';
+    width: 24px;
+    height: 24px;
+    display: flex;
+    margin-right: 5px;
+    background: url("@site/static/img/logo.svg");
+  }
+}
+
 /* for navbar resume item */
 @media screen and (max-width: 996px) {
   .menu-resume-text::after {
