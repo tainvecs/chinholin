@@ -34,6 +34,8 @@ const config = {
           path: './projects',
           routeBasePath: '/projects',
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: false,
         },
         blog: {
           blogTitle: 'Tech Blog',
