@@ -6,7 +6,7 @@ hide_title: false
 hide_table_of_contents: false
 
 sidebar_label: Introduction
-sidebar_position: 1
+sidebar_position: 0
 
 pagination_prev: null
 

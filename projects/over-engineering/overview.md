@@ -1,13 +1,13 @@
 ---
 id: over-engineering-overview
-slug: /over-engineering/overview
+slug: /over-engineering
 title: "Overview"
 
 hide_title: false
 hide_table_of_contents: false
 
 sidebar_label: "Overview"
-sidebar_position: 1
+sidebar_position: 0
 
 pagination_label: "Over Engineering"
 pagination_prev: null

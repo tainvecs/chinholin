@@ -1,6 +1,6 @@
 ---
-id: dotfiles-overview
-slug: /dotfiles
+id: finreg-overview
+slug: /finreg
 title: "Overview"
 
 hide_title: false
@@ -9,19 +9,19 @@ hide_table_of_contents: false
 sidebar_label: "Overview"
 sidebar_position: 0
 
-pagination_label: "Dotfiles"
+pagination_label: "Finreg.sg"
 pagination_prev: null
 pagination_next: null
 
 toc_min_heading_level: 2
 toc_max_heading_level: 2
 
-description: "Config files, plugins, and helper scripts for setting up macOS and Ubuntu."
+description: "A Singapore financial regulation Q&A Knowledge Center."
 keywords:
-  - zsh
-  - shell scripting
-  - zinit
-  - emacs lisp
+  - golang
+  - elasticsearch
+  - postgresql
+  - seo
 
 last_update:
   date: 2022-11-13
