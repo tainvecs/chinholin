@@ -49,5 +49,5 @@ Check it out. 😁
 [Chinholin.com Live]: https://chinholin.com
 [Chinholin.com Code]: https://github.com/tainvecs/chinholin
 
-[Dotfiles]: /projects/dotfiles/overview
+[Dotfiles]: https://github.com/tainvecs/dotfiles
 [Dotfiles Code]: https://github.com/tainvecs/dotfiles
