@@ -1,6 +1,6 @@
 ---
-id: dotfiles-overview
-slug: /dotfiles/overview
+id: over-engineering-overview
+slug: /over-engineering/overview
 title: "Overview"
 
 hide_title: false
@@ -9,19 +9,20 @@ hide_table_of_contents: false
 sidebar_label: "Overview"
 sidebar_position: 1
 
-pagination_label: "Dotfiles"
+pagination_label: "Over Engineering"
 pagination_prev: null
 pagination_next: null
 
 toc_min_heading_level: 2
 toc_max_heading_level: 2
 
-description: "Config files, plugins, and helper scripts for setting up macOS and Ubuntu."
+description: "A Search engine for IThome, a Mandarin tech forum."
 keywords:
-  - zsh
-  - shell scripting
-  - zinit
-  - emacs lisp
+  - meilisearch
+  - flask
+  - keybert
+  - postgresql
+  - fly.io
 
 last_update:
   date: 2022-11-13
