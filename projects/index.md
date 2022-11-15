@@ -8,6 +8,7 @@ hide_table_of_contents: false
 sidebar_label: Introduction
 sidebar_position: 0
 
+pagination_label: "Projects Introduction"
 pagination_prev: null
 
 description: "an introduction to Chin-Ho Lin's projects"
