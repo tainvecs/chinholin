@@ -1,5 +1,6 @@
 ---
-id: index
+id: intro
+slug: /intro
 title: Introduction
 
 hide_title: false
@@ -18,18 +19,9 @@ keywords:
 
 draft: false
 last_update:
-  date: 2022-11-13
+  date: 2022-11-16
   author: Chin-Ho Lin
-
 ---
-
-
-<head>
-  <link rel="canonical" href="https://chinholin.com/projects" data-rh="true" />
-  <link rel="alternate" href="https://chinholin.com/projects" hreflang="en" data-rh="true" />
-  <link rel="alternate" href="https://chinholin.com/projects" hreflang="x-default" data-rh="true" />
-  <meta property="og:url" content="https://chinholin.com/projects" data-rh="true" />
-</head>
 
 
 Hi, this is a site to share projects I have worked on for the past few years.<br />

@@ -78,7 +78,7 @@ const config = {
         },
         items: [
           {
-            to: '/projects',
+            to: '/projects/intro',
             label: 'Projects',
             position: 'left',
             className: 'menu-default-icon',

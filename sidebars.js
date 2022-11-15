@@ -3,7 +3,7 @@ const sidebars = {
   projectsSidebar: [
     {
       type: 'doc',
-      id: 'index',
+      id: 'intro',
     },
     // {
     //   type: 'category',
