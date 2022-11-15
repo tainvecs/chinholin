@@ -24,6 +24,14 @@ last_update:
 ---
 
 
+<head>
+  <link rel="canonical" href="https://chinholin.com/projects" data-rh="true" />
+  <link rel="alternate" href="https://chinholin.com/projects" hreflang="en" data-rh="true" />
+  <link rel="alternate" href="https://chinholin.com/projects" hreflang="x-default" data-rh="true" />
+  <meta property="og:url" content="https://chinholin.com/projects" data-rh="true" />
+</head>
+
+
 Hi, this is a site to share projects I have worked on for the past few years.<br />
 Besides documentation, you can also find links to source code or live demos for some of the projects.<br />
 Check it out. 😁
