@@ -10,7 +10,7 @@ sidebar_label: "Overview"
 sidebar_position: 0
 
 pagination_label: "Over Engineering"
-pagination_prev: null
+pagination_prev: "index"
 pagination_next: null
 
 toc_min_heading_level: 2
