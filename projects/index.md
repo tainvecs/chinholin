@@ -38,7 +38,7 @@ Check it out. 😁
 | [Dotfiles]                                    | [[Code][Dotfiles Code]]                                          | Config files, plugins, and helper scripts for setting up macOS and Ubuntu. | `Zsh`, `Shell Scripting`, `Zinit`, `Emacs Lisp`           |
 
 
-[Over Engineering]: https://over-engineering-frontend.fly.dev
+[Over Engineering]: /projects/over-engineering
 [Over Engineering Live]: https://over-engineering-frontend.fly.dev
 [Over Engineering Code]: https://github.com/over-engineering-run
 [IThome]: https://ithelp.ithome.com.tw
