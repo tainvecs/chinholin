@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/tainvecs/chinholin/actions/workflows/pages/pages-build-deployment">
-    <img src="https://img.shields.io/github/deployments/tainvecs/chinholin/github-pages?label=deployment&style=for-the-badge" alt="GitHub Pages Deployment">
+    <img src="https://img.shields.io/github/deployments/tainvecs/chinholin/production?label=deployment&logo=Vercel&style=for-the-badge" alt="Vercel Deployment">
   </a>
   <a href="https://www.chinholin.com/">
     <img src="https://img.shields.io/website?label=chinholin.com&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fwww.chinholin.com&style=for-the-badge" alt="Website Check">
