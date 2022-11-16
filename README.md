@@ -1,7 +1,7 @@
 # Personal Website
 
 <div>
-  <a href="https://github.com/tainvecs/chinholin/actions/workflows/pages/pages-build-deployment">
+  <a href="https://github.com/tainvecs/chinholin/deployments/activity_log?environment=Production">
     <img src="https://img.shields.io/github/deployments/tainvecs/chinholin/production?label=deployment&logo=Vercel&style=for-the-badge" alt="Vercel Deployment">
   </a>
   <a href="https://www.chinholin.com/">
