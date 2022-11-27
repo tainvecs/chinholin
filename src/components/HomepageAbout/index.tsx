@@ -21,7 +21,7 @@ export default function HomepageAbout(): JSX.Element {
         <p>Hi, I am a Data Scientist @ <a href="https://intelllex.com/" target="_blank">Intelllex</a>.</p>
         <p>I am passionate about tech</p>
         <p>and enjoy exploring it through doing side projects.</p>
-        <p>I document some <a href="/projects">projects</a> on this site.</p>
+        <p>I document some <a href="/projects/intro">projects</a> on this site.</p>
         <p>and share my learning with <a href="/blog">blog posts</a>.</p>
         <p>Cheers!🍻</p>
       </div>
