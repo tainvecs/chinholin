@@ -19,8 +19,8 @@ export default function HomepageAbout(): JSX.Element {
       </div>
       <div className={styles.description}>
         <p>Hi, I am a Data Scientist focused on</p>
-        <p>Natural Language Processing, Machine Learning,</p>
-        <p>and Search Engine Applications.</p>
+        <p>Natural Language Processing,</p>
+        <p>Machine Learning, and Search Engine Applications.</p>
         <p>I am passionate about tech</p>
         <p>and enjoy exploring it through doing side projects.</p>
         <p>I document some <a href="/projects/intro">projects</a> on this site</p>
