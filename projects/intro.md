@@ -30,14 +30,14 @@ Check it out. 😁
 
 
 ## Table of Contents
-| <div style={{"width":"130px"}}>Projects</div> | <div style={{"width":"100px"}}>Links</div>                       | Description                                                                                                                                     | Tech Keywords                                                        |
-|-----------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [o~dyssey AI]                                 | [[Live][o~dyssey AI Live]] [[Demo](/vid/o_dyssey_ai_demo.webm)]  | An AI interactive application that recommends travel spots by drawing pictures based on user mood descriptions and finding them on Google Maps. | `GPT`, `DALLE`, `Google Maps API`, `Sentry`, `FastAPI`, `PostgreSQL` |
-| [Scott]                                       | [[Live][Scott Live]]                                             | A Q&A platform designed to answer legal research queries in natural language.                                                                   | `GPT`, `Milvus/zilliz`, `FastAPI`, `PostgreSQL`, `AWS`               |
-| [Over Engineering]                            | [[Live][Over Engineering Live]], [[Code][Over Engineering Code]] | A Search engine for [IThome], a Mandarin tech forum.                                                                                            | `Meilisearch`, `Flask`, `KeyBERT`, `PostgreSQL`, `fly.io`            |
-| [Finreg.sg]                                   | [[Live][Finreg.sg Live]]                                         | A Singapore financial regulation Q&A Knowledge Center.                                                                                          | `Golang`, `Elasticsearch`, `PostgreSQL`, `SEO`                       |
-| [Chinholin.com]                               | [[Live][Chinholin.com Live]], [[Code][Chinholin.com Code]]       | Personal website for blog posts and projects.                                                                                                   | `Docusaurus`, `CSS`, `Vercel`                                        |
-| [Dotfiles]                                    | [[Code][Dotfiles Code]]                                          | Config files, plugins, and helper scripts for setting up macOS and Ubuntu.                                                                      | `Zsh`, `Shell Scripting`, `Zinit`, `Emacs Lisp`                      |
+| <div style={{"width":"130px"}}>Projects</div> | <div style={{"width":"100px"}}>Links</div>                                                                | Description                                                                                                                                     | Tech Keywords                                                        |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [o~dyssey AI]                                 | [[Live][o~dyssey AI Live]] [[Demo](/vid/o_dyssey_ai_demo.webm)]                                           | An AI interactive application that recommends travel spots by drawing pictures based on user mood descriptions and finding them on Google Maps. | `GPT`, `DALLE`, `Google Maps API`, `Sentry`, `FastAPI`, `PostgreSQL` |
+| [Scott]                                       | [[Live][Scott Live]]                                                                                      | A Q&A platform designed to answer legal research queries in natural language.                                                                   | `GPT`, `Milvus/zilliz`, `FastAPI`, `PostgreSQL`, `AWS`               |
+| [Finreg.sg]                                   | [[Live][Finreg.sg Live]]                                                                                  | A Singapore financial regulation Q&A Knowledge Center.                                                                                          | `Golang`, `Elasticsearch`, `PostgreSQL`, `SEO`                       |
+| [Over Engineering]                            | [[Live][Over Engineering Live]] [[Demo](/vid/over_engineering_demo.webm)] [[Code][Over Engineering Code]] | A Search engine for [IThome], a Mandarin tech forum.                                                                                            | `Meilisearch`, `Flask`, `KeyBERT`, `PostgreSQL`, `fly.io`            |
+| [Chinholin.com]                               | [[Live][Chinholin.com Live]] [[Code][Chinholin.com Code]]                                                 | Personal website for blog posts and projects.                                                                                                   | `Docusaurus`, `CSS`, `Vercel`                                        |
+| [Dotfiles]                                    | [[Code][Dotfiles Code]]                                                                                   | Config files, plugins, and helper scripts for setting up macOS and Ubuntu.                                                                      | `Zsh`, `Shell Scripting`, `Zinit`, `Emacs Lisp`                      |
 
 
 [o~dyssey AI]: https://travel-gpt.fly.dev
@@ -50,6 +50,7 @@ Check it out. 😁
 [Over Engineering]: https://over-engineering-frontend.fly.dev
 [Over Engineering Live]: https://over-engineering-frontend.fly.dev
 [Over Engineering Code]: https://github.com/over-engineering-run
+<!-- [Over Engineering Demo]: /vid/over_engineering_demo.webm -->
 [IThome]: https://ithelp.ithome.com.tw
 
 [Finreg.sg]: https://finreg.sg
