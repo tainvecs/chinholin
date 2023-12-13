@@ -37,7 +37,7 @@ Check it out. 😁
 | [Finreg.sg]                                   | [[Live][Finreg.sg Live]] [[Demo](/vid/finreg_demo.webm)]                                                  | A Singapore financial regulation Q&A Knowledge Center.                                                                                          | `Golang`, `Elasticsearch`, `PostgreSQL`, `SEO`                       |
 | [Over Engineering]                            | [[Live][Over Engineering Live]] [[Demo](/vid/over_engineering_demo.webm)] [[Code][Over Engineering Code]] | A Search engine for [IThome], a Mandarin tech forum.                                                                                            | `Meilisearch`, `Flask`, `KeyBERT`, `PostgreSQL`, `fly.io`            |
 | [Chinholin.com]                               | [[Live][Chinholin.com Live]] [[Code][Chinholin.com Code]]                                                 | Personal website for blog posts and projects.                                                                                                   | `Docusaurus`, `CSS`, `Vercel`                                        |
-| [Dotfiles]                                    | [[Code][Dotfiles Code]]                                                                                   | Config files, plugins, and helper scripts for setting up macOS and Ubuntu.                                                                      | `Zsh`, `Shell Scripting`, `Zinit`, `Emacs Lisp`                      |
+| [Dotfiles]                                    | [[Demo](/vid/dotfiles_demo.webm)] [[Code][Dotfiles Code]]                                         | Config files, plugins, and helper scripts for setting up macOS and Ubuntu.                                                                      | `Zsh`, `Shell Scripting`, `Zinit`, `Emacs Lisp`                      |
 
 
 [o~dyssey AI]: https://travel-gpt.fly.dev
@@ -61,6 +61,8 @@ Check it out. 😁
 [Chinholin.com]: https://chinholin.com
 [Chinholin.com Live]: https://chinholin.com
 [Chinholin.com Code]: https://github.com/tainvecs/chinholin
+<!-- [Chinholin.com Code]: /vid/chinholin_com.webm -->
 
 [Dotfiles]: https://github.com/tainvecs/dotfiles
 [Dotfiles Code]: https://github.com/tainvecs/dotfiles
+<!-- [Dotfiles Demo]: /vid/dotfiles_demo.webm -->
