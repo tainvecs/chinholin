@@ -23,15 +23,7 @@ const config = {
     locales: ['en'],
   },
 
-  plugins: [
-    [
-      'vercel-analytics',
-      {
-        debug: true,
-        mode: 'auto',
-      },
-    ],
-  ],
+  plugins: [],
 
   presets: [
     [
