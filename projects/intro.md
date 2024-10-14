@@ -19,7 +19,7 @@ keywords:
 
 draft: false
 last_update:
-  date: 2023-09-15
+  date: 2024-10-14
   author: Chin-Ho Lin
 ---
 
@@ -30,15 +30,14 @@ Check it out. 😁
 
 
 ## Table of Contents
-| <div style={{"width":"130px"}}>Projects</div> | <div style={{"width":"100px"}}>Links</div>                                                      | Description                                                                                                                                                                                                                         | Tech Keywords                                                                   |
-|-----------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| [o~dyssey AI]                                 | [[Live][o~dyssey AI Live]] [[Demo][o~dyssey AI Demo]]                                           | - An AI interactive application that recommends travel spots by drawing pictures based on user mood descriptions and finding them on Google Maps.<br></br>- User Mood Description → an AI Drew Picture → Travel Spots on Google Map | `Python`, `GPT`, `DALL-E`, `Google Maps API`, `FastAPI`, `PostgreSQL`, `Sentry` |
-| [Scott]                                       | [[Live][Scott Live]] [[Demo][Scott Demo]]                                                       | A Q&A platform designed to answer legal research queries in natural language.                                                                                                                                                       | `Python`, `GPT`, `Milvus/zilliz`, `FastAPI`, `PostgreSQL`, `AWS`                |
-| [Finreg.sg]                                   | [[Live][Finreg.sg Live]] [[Demo][Finreg.sg Demo]]                                               | A search engine for Singapore financial regulation Q&A knowledge base.                                                                                                                                                              | `Golang`, `Python`, `Elasticsearch`, `PostgreSQL`, `SEO`, `BERT`                |
-| [Over Engineering]                            | [[Live][Over Engineering Live]] [[Demo][Over Engineering Demo]] [[Code][Over Engineering Code]] | A Search engine for [IThome], a Mandarin tech forum.                                                                                                                                                                                | `Python`, `Meilisearch`, `Flask`, `KeyBERT`, `PostgreSQL`, `fly.io`             |
-| [Chinholin.com]                               | [[Live][Chinholin.com Live]] [[Demo][Chinholin.com Demo]] [[Code][Chinholin.com Code]]          | Personal website for blog posts and projects.                                                                                                                                                                                       | `Docusaurus`, `CSS`, `Vercel`                                                   |
-| [Dotfiles]                                    | [[Demo][Dotfiles Demo]] [[Code][Dotfiles Code]]                                                 | Config files, plugins, and helper scripts for setting up macOS and Ubuntu terminals.                                                                                                                                                | `Zsh`, `Shell Scripting`, `Zinit`, `Emacs Lisp`, `Docker`, `Github Actions`     |
-
+| <div style={{"width":"130px"}}>Projects</div> | <div style={{"width":"100px"}}>Links</div>                                                      | Description                                                                                                                                                                                                                      | Tech Keywords                                                                   |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| [o~dyssey AI]                                 | [[Live][o~dyssey AI Live]] [[Demo][o~dyssey AI Demo]]                                           | • An AI interactive application that recommends travel spots by drawing pictures based on user mood descriptions and finding them on Google Maps.<br />• User Mood Description → an AI Drew Picture → Travel Spots on Google Map | `Python`, `GPT`, `DALL-E`, `Google Maps API`, `FastAPI`, `PostgreSQL`, `Sentry` |
+| [Scott]                                       | [[Live][Scott Live]] [[Demo][Scott Demo]]                                                       | A Q&A platform designed to answer legal research queries in natural language.                                                                                                                                                    | `Python`, `GPT`, `Milvus/zilliz`, `FastAPI`, `PostgreSQL`, `AWS`                |
+| [Finreg.sg]                                   | [[Live][Finreg.sg Live]] [[Demo][Finreg.sg Demo]]                                               | A search engine for Singapore financial regulation Q&A knowledge base.                                                                                                                                                           | `Golang`, `Python`, `Elasticsearch`, `PostgreSQL`, `SEO`, `BERT`                |
+| [Over Engineering]                            | [[Live][Over Engineering Live]] [[Demo][Over Engineering Demo]] [[Code][Over Engineering Code]] | A Search engine for [IThome], a Mandarin tech forum.                                                                                                                                                                             | `Python`, `Meilisearch`, `Flask`, `KeyBERT`, `PostgreSQL`, `fly.io`             |
+| [Chinholin.com]                               | [[Live][Chinholin.com Live]] [[Demo][Chinholin.com Demo]] [[Code][Chinholin.com Code]]          | Personal website for blog posts and projects.                                                                                                                                                                                    | `Docusaurus`, `CSS`, `Vercel`                                                   |
+| [Dotfiles]                                    | [[Demo][Dotfiles Demo]] [[Code][Dotfiles Code]]                                                 | Config files, plugins, and helper scripts for setting up macOS and Ubuntu terminals.                                                                                                                                             | `Zsh`, `Shell Scripting`, `Zinit`, `Emacs Lisp`, `Docker`, `Github Actions`     |
 
 
 [o~dyssey AI]: https://travel-gpt.fly.dev
@@ -49,8 +48,8 @@ Check it out. 😁
 [Scott Live]: https://scott.intelllex.com
 [Scott Demo]: https://youtu.be/fqndFEVBVr4
 
-[Finreg.sg]: https://finreg.sg
-[Finreg.sg Live]: https://finreg.sg
+[Finreg.sg]: https://finreg.sg/search/question?q=crypto
+[Finreg.sg Live]: https://finreg.sg/search/question?q=crypto
 [Finreg.sg Demo]: https://youtu.be/f6wbaVbAVDE
 
 [Over Engineering]: https://over-engineering-frontend.fly.dev
